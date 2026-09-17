@@ -26,3 +26,4 @@ f.push("mango")
 f[0]="abc"
 
 console.log(f)
+
