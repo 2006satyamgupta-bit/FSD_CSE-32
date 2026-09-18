@@ -1,0 +1,7 @@
+Name: Satyam Kumar
+Roll Number: 1021
+Branch: CSE
+Semester: 3
+Subject: Full Stack Development
+Marks: 85
+Attendance: 92%
